@@ -1,0 +1,106 @@
+Kata: 9:44 AM 12/1/2019
+
+Html: basics exercises
+
+Column 1  : (1- 6)
+1. Create a webpage that prints your name to the screen.
+2. Create a webpage that prints the numbers 1 - 10 to the screen.
+3. Create a webpage and set its title to "This is a webpage"
+4. Create a webpage and set its title to "This is a webpage"Create a webpage that prints the message "When was this webpage created? Check page's title for the answer." to the screen, and set the title of the page to the current date
+5. Create a webpage that prints any text of your choosing to the screen, do not include a head section in the code.
+6. Create a webpage that prints any text of your choosing to the screen, but this time include a head section in the code.
+
+
+
+Column 2  : (7- 12)
+7. Print your name in green.
+8. Print the numbers 1 - 10, each number being a different color.
+9. Prints your name in a Tahoma font.
+10.Print a paragraph with 4 - 5 sentences. Each sentence should be a different font.
+11.Print a paragraph that is a description of a book, include the title of the book as well as its author. Names and titles should be underlined, adjectives should be italicized and bolded.
+12.Print your name to the screen with every letter being a different heading size
+
+-----------------------------------------------
+Html text formatting exercises
+Column 3  : (12- 23)
+13. Print the squares of the numbers 1 - 20. Each number should be on a separate line, next to it the number 2 superscripted, an equal sign and the result. (Example: 102 = 100)
+
+14.Prints 10 names with a line break between each name. The list should be alphabetized, and to do this place a subscripted number next to each name based on where it will go in the alphabetized list. (Example: Alan1). Print first, the unalphabetized list with a subscript number next to each name, then the alphabetized list. Both lists should have an <h1> level heading.
+
+15. Print two paragraphs that are both indented using the &nbsp; command
+
+16. Print two lists with any information you want. One list should be an ordered list, the other list should be an unordered list.
+
+17. Prints an h1 level heading followed by a horizontal line whose width is 100%. Below the horizontal line print a paragraph relating to the text in the heading.
+
+18. Print some preformatted text of your choosing. (hint: use the <pre> tag)
+
+19. Print a long quote and a short quote. Cite the author of each quote. 
+
+20. Print some deleted and inserted text of your choosing.
+
+21. Print a definition list with 5 items. 
+
+22.  Print two addresses in the same format used on the front of envelopes (senders address in top left corner, receivers address in the center). 
+23. Print ten acronyms and abbreviations of your choosing, each separated by two lines. Specify the data that the abbreviations and acronyms 
+
+
+-----------------------------------------------
+Html Link exercises
+Column 4  :
+24. Create some links to various search engines (google, yahoo, altavista, lycos, etc).
+25. Create links to five different pages on five different websites that should all open in a new window.
+26. Create a page with a link at the bottom of it that when clicked will jump all the way to the top of the page.
+27. Create a page with a link at the top of it that when clicked will jump all the way to the bottom of the page. At the bottom of the page there should be a link to jump back to the top of the page.
+28.
+
+
+
+-----------------------------------------------
+Html image exercises
+Column 5  : (29- 32)
+29. Display five different images. Skip two lines between each image. Each image should have a title
+30. Display an image that has a border of size 2, a width of 200, and a height of 200
+31. Display an image that when clicked will link to a search engine of your choice (should be opened in a new window)
+32. Display an image that when clicked will link to itself and will display the image in the browser by itself. 
+
+
+-----------------------------------------------
+Html Form
+Column 6  : (33)
+ทำหน้า Form Register
+-----------------------------------------------
+Html Project
+Column 7  : 
+-  Project 1 - HTML Tribute Page Project
+-  Project 2 - HTML Form Validation Project
+-  Project 3 - Personal Portfolio Website
+
+-----------------------------------------------
+Column 7  : (1- 6)
+-----------------------------------------------
+Column 8  : (1- 6)
+-----------------------------------------------
+Column 9  : (1- 6)
+-----------------------------------------------
+Column 10  : (1- 6)
+-----------------------------------------------
+Column 11  : (1- 6)
+-----------------------------------------------
+Column 12  : (1- 6)
+-----------------------------------------------
+Column 13  : (1- 6)
+
+==========================================
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> </title>
+</head>
+
+<body>
+
+</body>
+
+</html>
